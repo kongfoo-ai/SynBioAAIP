@@ -31,8 +31,8 @@ This page is intended to keep a list of relevant references on different perspec
 - **Machine learning for metabolic engineering: A review.**  <br/> Metabolic Engineering Vol. 63 (2021), Pages 34–60; [Paper](https://doi.org/10.1016/j.ymben.2020.10.005) <br/> Lawson, C., et al.
 
 # Test
-- ** Opportunities at the intersection of synthetic biology, machine learning, and automation.** <br/> ACS Synthetic Biology Volume 8, No. 7 (Jul. 2019), Pages 1474–1477 [Paper](https://doi.org/10.1021/acssynbio.8b00540) <br/> *Carbonell, P., Radivojevic, T., and Martín, H.*
-- ** Bioprocess automation on a Mini Pilot Plant enables fast quantitative microbial phenotyping.** <br/> Microbial Cell Factories Volume 14, No. 1 (Dec. 2015), Page 216 [Paper](https://doi.org/10.1186/s12934-015-0216-6) <br/> *Unthan, S., Radek, A., Wiechert, W., Oldiges, M., and Noack, S.*
+- **Opportunities at the intersection of synthetic biology, machine learning, and automation.** <br/> ACS Synthetic Biology Volume 8, No. 7 (Jul. 2019), Pages 1474–1477 [Paper](https://doi.org/10.1021/acssynbio.8b00540) <br/> *Carbonell, P., Radivojevic, T., and Martín, H.*
+- **Bioprocess automation on a Mini Pilot Plant enables fast quantitative microbial phenotyping.** <br/> Microbial Cell Factories Volume 14, No. 1 (Dec. 2015), Page 216 [Paper](https://doi.org/10.1186/s12934-015-0216-6) <br/> *Unthan, S., Radek, A., Wiechert, W., Oldiges, M., and Noack, S.*
 - **A. next-generation experimentation with self-driving laboratories.** <br/> Trends in Chemistry Volume 1, No. 3 (Mar 2019), Pages. 282–291. [https://doi.org/10.1016/j.trechm.2019.02.007](https://doi.org/10.1016/j.trechm.2019.02.007)  <br/> *Häse, F., Roch, L., and Aspuru-Guzik.*
 
 # Learn
