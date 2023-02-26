@@ -22,7 +22,7 @@ This page is intended to keep a list of relevant references on different perspec
 - **ProGen: Language Modeling for Protein Generation.** (2020) [Paper](https://arxiv.org/abs/2004.03497) <br/> *Madani, Ali and McCann, Bryan and Naik, Nikhil and Keskar, Nitish Shirish and Anand, Namrata and Eguchi, Raphael R. and Huang, Po-Ssu and Socher, Richard*.
  - **Incorporating biological knowledge with factor graph neural network for interpretable deep learning.** (Jun 2019). [arXiv](https://arxiv.org/abs/1906.00537) <br/> *Ma, T. and Zhang, A.*
  - **Predicting multicellular function through multi-layer tissue networks.** <br/> Bioinformatics Volume 33, No. 14 (Jul. 2017), Pages 190–198 [Paper](https://doi.org/10.1093/bioinformatics/btx252) <br/> *Zitnik, M. and Leskovec, J.*
- -  **Predicting the sequence specificities of DNA and RNA-binding proteins by deep learning. ** <br/> Nature Biotechnology Volume 33, No. 8 (Aug. 2015), Pages 831–838 [[Paper](https://doi.org/10.1038/nbt.3300)] <br/> *Alipanahi, B., Delong, A., Weirauch, M., and Frey, B.*
+ -  **Predicting the sequence specificities of DNA and RNA-binding proteins by deep learning.** <br/> Nature Biotechnology Volume 33, No. 8 (Aug. 2015), Pages 831–838 [[Paper](https://doi.org/10.1038/nbt.3300)] <br/> *Alipanahi, B., Delong, A., Weirauch, M., and Frey, B.*
 
 # Build
 
